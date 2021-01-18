@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/freelancer2020/nfx-new-version/static/css/main.6872d29c.chunk.css",
+    "main.js": "/freelancer2020/nfx-new-version/static/js/main.b21ad8e1.chunk.js",
+    "main.js.map": "/freelancer2020/nfx-new-version/static/js/main.b21ad8e1.chunk.js.map",
+    "runtime-main.js": "/freelancer2020/nfx-new-version/static/js/runtime-main.9ae3d97f.js",
+    "runtime-main.js.map": "/freelancer2020/nfx-new-version/static/js/runtime-main.9ae3d97f.js.map",
+    "static/js/2.2211d015.chunk.js": "/freelancer2020/nfx-new-version/static/js/2.2211d015.chunk.js",
+    "static/js/2.2211d015.chunk.js.map": "/freelancer2020/nfx-new-version/static/js/2.2211d015.chunk.js.map",
+    "static/js/3.522027aa.chunk.js": "/freelancer2020/nfx-new-version/static/js/3.522027aa.chunk.js",
+    "static/js/3.522027aa.chunk.js.map": "/freelancer2020/nfx-new-version/static/js/3.522027aa.chunk.js.map",
+    "index.html": "/freelancer2020/nfx-new-version/index.html",
+    "static/css/main.6872d29c.chunk.css.map": "/freelancer2020/nfx-new-version/static/css/main.6872d29c.chunk.css.map",
+    "static/js/2.2211d015.chunk.js.LICENSE.txt": "/freelancer2020/nfx-new-version/static/js/2.2211d015.chunk.js.LICENSE.txt",
+    "static/media/avatar.750cb968.png": "/freelancer2020/nfx-new-version/static/media/avatar.750cb968.png",
+    "static/media/cal-logo30.1c4e1b2f.png": "/freelancer2020/nfx-new-version/static/media/cal-logo30.1c4e1b2f.png",
+    "static/media/login_background.4127c0a8.jpg": "/freelancer2020/nfx-new-version/static/media/login_background.4127c0a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae3d97f.js",
+    "static/js/2.2211d015.chunk.js",
+    "static/css/main.6872d29c.chunk.css",
+    "static/js/main.b21ad8e1.chunk.js"
+  ]
+}
